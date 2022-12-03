@@ -1,70 +1,82 @@
+[
 {
+"principle": "Close to Standards",
 judge: {
 "name": "Othniel",
 "meaning": "God has helped me",
 "father": {"name": "Kenaz", "meaning": "hunter"}
 },
 {
-judge: {
+"principle": "Me",
+"judge": {
 "name": "Ehud", 
 "meaning": "He that praises", 
 "father": {"name": "Gera the Benjamite", "meaning": "grain"}
 },
 {
-judge: {
+"principle": "Iteration",
+"judge": {
 "name": "Shamgar", 
 "meaning": "sword", 
 "father": {"name": "Anath", "meaning": "Answer, song, poverty"}
 },
 {
-judge: {
+"principle": "Computationally Secure",
+"judge": {
 "name": "Deborah", "meaning": "bee", 
 "father": {"name": "Jabin", "meaning": "discerner"}
 },
 {
-judge: {
+"principle": "Eliminate Waste",
+"judge": {
 "name": "Gideon", 
 "meaning": "great destroyer",
 "father": {"name": "Joash", "meaning": "God has given"}
 },
 {
-judge: {
+"principle": "Just do the Right Thing",
+"judge": {
 "name": "Tola", "meaning": "scarlet stuff", 
 "mother": {"name": "Pauh", "meaning": "little girl", 
 {"father": {"name": "Dodo", "meaning": "amatory; loving"}}}
 },
 {
-judge: {
+"principle": "=== JustC043 ===",
+"judge": {
 "name": "Jair", 
 "meaning": "he shines"
-}
 },
 {
-judge: {
+"principle": "To open",
+"judge": {
 "name": "Jephthah", 
 "meaning": "To open", 
 "father": {"name": "Gilead", "meaning": "heap [of stones] of testimony"}}
 },
 {
-judge: {
+"principle": "Single Source of Truth",
+"judge": {
 "name": "Ibzan", 
 "meaning": "Father of a target; father of coldness"}
 },
 {
-judge: {
+"principle": "Open Source",
+"judge": {
 "name": "Elon", 
 "meaning": "oak tree"
 },
 {
-judge: {
+"principle": "Humans over Technology",
+"judge": {
 "name": "Abdon",
 "meaning": "servant", 
 "father": {"name": "Hillel", "spiritual leader of a Jewish congregation; qualified to expound and apply Jewish law"}}
 },
 {
-judge: {
+"principle": "Deliver Working Software",
+"judge": {
 "name": "Samson", 
 "meaning": "like the sun", 
 "father": {"name": "Manoah", "meaning": "rest"}
 }
-}
+]

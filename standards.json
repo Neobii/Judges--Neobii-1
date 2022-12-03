@@ -1,0 +1,70 @@
+{
+judge: {
+"name": "Othniel",
+"meaning": "God has helped me",
+"father": {"name": "Kenaz", "meaning": "hunter"}
+},
+{
+judge: {
+"name": "Ehud", 
+"meaning": "He that praises", 
+"father": {"name": "Gera the Benjamite", "meaning": "grain"}
+},
+{
+judge: {
+"name": "Shamgar", 
+"meaning": "sword", 
+"father": {"name": "Anath", "meaning": "Answer, song, poverty"}
+},
+{
+judge: {
+"name": "Deborah", "meaning": "bee", 
+"father": {"name": "Jabin", "meaning": "discerner"}
+},
+{
+judge: {
+"name": "Gideon", 
+"meaning": "great destroyer",
+"father": {"name": "Joash", "meaning": "God has given"}
+},
+{
+judge: {
+"name": "Tola", "meaning": "scarlet stuff", 
+"mother": {"name": "Pauh", "meaning": "little girl", 
+{"father": {"name": "Dodo", "meaning": "amatory; loving"}}}
+},
+{
+judge: {
+"name": "Jair", 
+"meaning": "he shines"
+}
+},
+{
+judge: {
+"name": "Jephthah", 
+"meaning": "To open", 
+"father": {"name": "Gilead", "meaning": "heap [of stones] of testimony"}}
+},
+{
+judge: {
+"name": "Ibzan", 
+"meaning": "Father of a target; father of coldness"}
+},
+{
+judge: {
+"name": "Elon", 
+"meaning": "oak tree"
+},
+{
+judge: {
+"name": "Abdon",
+"meaning": "servant", 
+"father": {"name": "Hillel", "spiritual leader of a Jewish congregation; qualified to expound and apply Jewish law"}}
+},
+{
+judge: {
+"name": "Samson", 
+"meaning": "like the sun", 
+"father": {"name": "Manoah", "meaning": "rest"}
+}
+}

@@ -1,13 +1,15 @@
 [
 {
 "principle": "Close to Standards",
-judge: {
+"emoji": "😀",
+"judge": {
 "name": "Othniel",
 "meaning": "God has helped me",
 "father": {"name": "Kenaz", "meaning": "hunter"}
 },
 {
 "principle": "Me",
+"emoji": "😁",
 "judge": {
 "name": "Ehud", 
 "meaning": "He that praises", 
@@ -15,19 +17,22 @@ judge: {
 },
 {
 "principle": "Iteration",
+"emoji": "😂",
 "judge": {
-"name": "Shamgar", 
+"name": "Shamgar",
 "meaning": "sword", 
 "father": {"name": "Anath", "meaning": "Answer, song, poverty"}
 },
 {
 "principle": "Computationally Secure",
+"emoji": "😃",
 "judge": {
 "name": "Deborah", "meaning": "bee", 
 "father": {"name": "Jabin", "meaning": "discerner"}
 },
 {
 "principle": "Eliminate Waste",
+"emoji": "😄",
 "judge": {
 "name": "Gideon", 
 "meaning": "great destroyer",
@@ -35,18 +40,21 @@ judge: {
 },
 {
 "principle": "Just do the Right Thing",
+"emoji": "😅",
 "judge": {
 "name": "Tola", "meaning": "scarlet stuff", 
 "mother": {"name": "Pauh", "meaning": "little girl", 
 {"father": {"name": "Dodo", "meaning": "amatory; loving"}}}
 },
-{
+{ 
+"emoji": "😆",
 "principle": "=== JustC043 ===",
 "judge": {
 "name": "Jair", 
 "meaning": "he shines"
 },
 {
+"emoji": "😇",
 "principle": "To open",
 "judge": {
 "name": "Jephthah", 
@@ -54,18 +62,21 @@ judge: {
 "father": {"name": "Gilead", "meaning": "heap [of stones] of testimony"}}
 },
 {
+"emoji": "😈",
 "principle": "Single Source of Truth",
 "judge": {
 "name": "Ibzan", 
 "meaning": "Father of a target; father of coldness"}
 },
 {
+"emoji": "😉",
 "principle": "Open Source",
 "judge": {
 "name": "Elon", 
 "meaning": "oak tree"
 },
 {
+"emoji": "😊",
 "principle": "Humans over Technology",
 "judge": {
 "name": "Abdon",
@@ -73,6 +84,7 @@ judge: {
 "father": {"name": "Hillel", "spiritual leader of a Jewish congregation; qualified to expound and apply Jewish law"}}
 },
 {
+"emoji": "😋",
 "principle": "Deliver Working Software",
 "judge": {
 "name": "Samson", 

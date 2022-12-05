@@ -8,3 +8,14 @@ Judgement = {
     "judgement": "+😂"
   }
 }
+
+Judgement = {
+  "verse": {
+    "number": "1:9",
+    "text": "After that, Judah went down to fight against the Canaanites living in the hill country,(N) the Negev(O) and the western foothills."
+  },
+  "judge": {
+    "name": "Ibzan",
+    "judgement": "Judah --> 'Canaanites^{Hill Country, Negev, western foothills}' "
+  }
+}

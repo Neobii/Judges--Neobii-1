@@ -4,6 +4,7 @@
 "emoji": "😀",
 "judge": {
 "name": "Othniel",
+"mood": "...😁",
 "meaning": "God has helped me",
 "father": {"name": "Kenaz", "meaning": "hunter"}
 },
@@ -11,7 +12,8 @@
 "principle": "Me",
 "emoji": "😁",
 "judge": {
-"name": "Ehud", 
+"name": "Ehud",
+"mood": ".😁",
 "meaning": "He that praises", 
 "father": {"name": "Gera the Benjamite", "meaning": "grain"}
 },
@@ -20,6 +22,7 @@
 "emoji": "😂",
 "judge": {
 "name": "Shamgar",
+"mood": "{😄}",
 "meaning": "sword", 
 "father": {"name": "Anath", "meaning": "Answer, song, poverty"}
 },
@@ -35,6 +38,7 @@
 "emoji": "😄",
 "judge": {
 "name": "Gideon", 
+"mood": "{😄}",
 "meaning": "great destroyer",
 "father": {"name": "Joash", "meaning": "God has given"}
 },

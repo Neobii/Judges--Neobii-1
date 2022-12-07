@@ -1,0 +1,3 @@
+function 🥁(song){
+  playMusic(song);
+}
